@@ -1,0 +1,14 @@
+1. Problem Statement (40 words):
+X Education, an online course provider, faces a low lead conversion rate despite generating many leads. The challenge is to develop a logistic regression model that assigns lead scores (0-100) to identify potential customers (hot leads) with an 80% target conversion rate.
+
+2. Solution Idea:
+To improve lead conversion, we will build a logistic regression model using the provided leads dataset. The model will assign lead scores based on attributes like Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. We will handle categorical variables with 'Select' levels as null values. The model will help X Education prioritize potential leads and focus on personalized communication to increase the conversion rate.
+
+3. Impact of Solution:
+Implementing the lead scoring model will have several positive impacts on X Education:
+- Increased Efficiency: The sales team can prioritize hot leads, saving time and effort by focusing on leads with higher conversion potential.
+- Improved Conversion Rate: Identifying potential customers accurately will lead to an improved conversion rate, bringing in more paying customers.
+- Personalized Communication: With lead scores, the company can tailor communication strategies for each lead, resulting in a better customer experience.
+- Flexibility for Future Changes: The model can adapt to the company's evolving requirements, making it a valuable long-term tool for lead prioritization and decision-making.
+
+Ultimately, the solution aims to optimize lead conversion, streamline sales efforts, and enhance customer engagement for X Education.
